@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae531eec.chunk.css",
-    "main.js": "/static/js/main.36a0be29.chunk.js",
-    "main.js.map": "/static/js/main.36a0be29.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2af80ef2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2af80ef2.js.map",
-    "static/js/2.721727c4.chunk.js": "/static/js/2.721727c4.chunk.js",
-    "static/js/2.721727c4.chunk.js.map": "/static/js/2.721727c4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e1f80e4fbe62971130c46fdca96e4765.js": "/precache-manifest.e1f80e4fbe62971130c46fdca96e4765.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ae531eec.chunk.css.map": "/static/css/main.ae531eec.chunk.css.map",
-    "static/js/2.721727c4.chunk.js.LICENSE.txt": "/static/js/2.721727c4.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/RobotoMono-Thin.288302ea.ttf"
+    "main.css": "/react-calculadora/static/css/main.e0a525b4.chunk.css",
+    "main.js": "/react-calculadora/static/js/main.a19e3d5a.chunk.js",
+    "main.js.map": "/react-calculadora/static/js/main.a19e3d5a.chunk.js.map",
+    "runtime-main.js": "/react-calculadora/static/js/runtime-main.20ae80e8.js",
+    "runtime-main.js.map": "/react-calculadora/static/js/runtime-main.20ae80e8.js.map",
+    "static/js/2.721727c4.chunk.js": "/react-calculadora/static/js/2.721727c4.chunk.js",
+    "static/js/2.721727c4.chunk.js.map": "/react-calculadora/static/js/2.721727c4.chunk.js.map",
+    "index.html": "/react-calculadora/index.html",
+    "precache-manifest.6ece69e0b9299b341044282a1b1ebecf.js": "/react-calculadora/precache-manifest.6ece69e0b9299b341044282a1b1ebecf.js",
+    "service-worker.js": "/react-calculadora/service-worker.js",
+    "static/css/main.e0a525b4.chunk.css.map": "/react-calculadora/static/css/main.e0a525b4.chunk.css.map",
+    "static/js/2.721727c4.chunk.js.LICENSE.txt": "/react-calculadora/static/js/2.721727c4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-calculadora/static/media/RobotoMono-Thin.288302ea.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.2af80ef2.js",
+    "static/js/runtime-main.20ae80e8.js",
     "static/js/2.721727c4.chunk.js",
-    "static/css/main.ae531eec.chunk.css",
-    "static/js/main.36a0be29.chunk.js"
+    "static/css/main.e0a525b4.chunk.css",
+    "static/js/main.a19e3d5a.chunk.js"
   ]
 }
